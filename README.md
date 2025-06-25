@@ -73,7 +73,7 @@ Browse available activities on the Activities page.
 
 Filter activities by type (coding, quiz, debugging, project) and difficulty (Beginner, Intermediate, Advanced).
 
-Select an activity to start coding, answering quiz questions, or debugging code.
+Select an activity to start coding, answering questions, fast quizes or debugging code.
 
 Submit your answers or code to earn points and track your progress.
 
